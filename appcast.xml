@@ -6,9 +6,9 @@
             <title>1.21</title>
             <pubDate>Thu, 17 Jul 2025 12:52:34 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://srgplus.github.io./srgplus_macOS/SRG%20Plus.dmg" length="29711644" type="application/octet-stream" sparkle:edSignature="VuWOrfL+BQKHwE6Gvh1eLxzZdZQ8XM0YOFeDm4I1cConRhRBlpI0FeeBQUo3lFub2oNC6D5oaS2KmP4UrL7RAw=="/>
+            <enclosure url="https://srgplus.github.io./srgplus_macOS/SRG%20Plus.dmg" length="29681966" type="application/octet-stream" sparkle:edSignature="bOhuDS//UnjyLAGLl+IUmuY0KHl8/7RmN9znma/yajEJ8NWn04+LI4ZQmvqbvx11heQRful8TSy1SCKztOUZAw=="/>
         </item>
     </channel>
 </rss>
