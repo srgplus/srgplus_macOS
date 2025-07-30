@@ -4,11 +4,11 @@
         <title>SRG Plus</title>
         <item>
             <title>1.22</title>
-            <pubDate>Wed, 30 Jul 2025 17:26:20 +0200</pubDate>
+            <pubDate>Wed, 30 Jul 2025 18:12:45 +0200</pubDate>
             <sparkle:version>1.22</sparkle:version>
             <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/srgplus/srgplus_macOS/releases/latest/download/SRG+.dmg" length="29682408" type="application/octet-stream" sparkle:edSignature="zIiViXyo7gMP0fiSlpvBGeI1z36IULfQR4cXxZS4/LwQSKAgFqesB7Ylq+PdpwMLe8eWSc5keHeoQoPT115TBw=="/>
+            <enclosure url="https://github.com/srgplus/srgplus_macOS/releases/latest/download/SRG+.dmg" length="29682272" type="application/octet-stream" sparkle:edSignature="WnB8HAyvQp7hXvph+Z0lacU8uJ8VYdnAXD6CU0fZs7xIZcsMsXmsawQY3+jV3tD9oJlSAAKO95CGMsD86tSWBw=="/>
         </item>
     </channel>
 </rss>
