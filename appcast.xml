@@ -8,7 +8,7 @@
             <sparkle:version>1.22</sparkle:version>
             <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://srgplus.github.io/srgplus_macOS/SRG+.dmg" length="29681316" type="application/octet-stream" sparkle:edSignature="9qcOUO3+Q8Y9ClOUFcJy54jdqRc5AhUhN8LoRKXMJrveKIYrI8NjuwqDhp9Y2Wu12UuYMH3AGpJwnbi/wLq0CA=="/>
+            <enclosure url="https://github.com/srgplus/srgplus_macOS/releases/latest/download/SRG+.dmg" length="29681316" type="application/octet-stream" sparkle:edSignature="9qcOUO3+Q8Y9ClOUFcJy54jdqRc5AhUhN8LoRKXMJrveKIYrI8NjuwqDhp9Y2Wu12UuYMH3AGpJwnbi/wLq0CA=="/>
         </item>
     </channel>
 </rss>
