@@ -3,12 +3,12 @@
     <channel>
         <title>SRG Plus</title>
         <item>
-            <title>1.22</title>
-            <pubDate>Wed, 30 Jul 2025 18:12:45 +0200</pubDate>
-            <sparkle:version>1.22</sparkle:version>
-            <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/srgplus/srgplus_macOS/releases/latest/download/SRG+.dmg" length="29682272" type="application/octet-stream" sparkle:edSignature="WnB8HAyvQp7hXvph+Z0lacU8uJ8VYdnAXD6CU0fZs7xIZcsMsXmsawQY3+jV3tD9oJlSAAKO95CGMsD86tSWBw=="/>
+            <title>1.23</title>
+            <pubDate>Thu, 31 Jul 2025 11:40:01 +0200</pubDate>
+            <sparkle:version>1.23</sparkle:version>
+            <sparkle:shortVersionString>1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/srgplus/srgplus_macOS/releases/latest/download/SRG+.dmg" length="29684012" type="application/octet-stream" sparkle:edSignature="zyowHi9O2CESxt2iSNNGL9ajoxHA7ZRll8ktQV+637Q7S//O3Z2zyAK6vALlSJkPV/1ALqnnUUc6TOYH68bHDw=="/>
         </item>
     </channel>
 </rss>
