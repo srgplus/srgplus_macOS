@@ -3,5 +3,6 @@
   "level": 0,
   "optInOnly": true,
   "disabledBuilds": [],
-  "note": "SRG+ Drive in Finder editing kill switch (SRGDEV-801). level 0 = read-only for every Mac. Higher levels only take effect in builds that implement them and on Macs whose 'Allow editing in Finder' toggle is on (optInOnly). A build listed in disabledBuilds stays read-only. The extension re-reads this file every 10 minutes and treats it as missing after 24 hours without a successful fetch. Changing it needs the owner's OK. Design: srgplus/srgplus docs/architecture/finder-drive-editing-design.md 13.4 item 7."
+  "agentFiles": false,
+  "note": "SRG+ Drive in Finder editing kill switch (SRGDEV-801). level 0 = read-only for every Mac. Higher levels only take effect in builds that implement them and on Macs whose 'Allow editing in Finder' toggle is on (optInOnly). A build listed in disabledBuilds stays read-only. The extension re-reads this file every 10 minutes and treats it as missing after 24 hours without a successful fetch. Changing it needs the owner's OK. Design: srgplus/srgplus docs/architecture/finder-drive-editing-design.md 13.4 item 7. agentFiles (SRGDEV-821) switches the generated agent files (hidden AGENTS.md per folder), independent of the editing level; off when missing."
 }
