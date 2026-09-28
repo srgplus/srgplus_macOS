@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "level": 2,
+  "level": 3,
   "optInOnly": true,
   "disabledBuilds": [],
   "agentFiles": true,
