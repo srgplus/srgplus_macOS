@@ -3,6 +3,14 @@
     <channel>
         <title>SRG Plus</title>
         <item>
+            <title>1.91.2</title>
+            <pubDate>Thu, 01 Oct 2026 08:41:31 -0700</pubDate>
+            <sparkle:version>1.91.2</sparkle:version>
+            <sparkle:shortVersionString>1.91.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/srgplus/srgplus_macOS/releases/latest/download/SRG+.dmg" length="47758590" type="application/octet-stream" sparkle:edSignature="YMe4J0tWr5thKuCPS+OKUN2ibkB+MNHI7EhGhu1HFUm9OfscxROsKE5iIPI5rkMYYT47C5MtBsQ501RGyWC/Dw=="/>
+        </item>
+        <item>
             <title>1.91.1</title>
             <pubDate>Thu, 01 Oct 2026 00:32:12 -0700</pubDate>
             <sparkle:version>1.91.1</sparkle:version>
